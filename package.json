@@ -1,0 +1,23 @@
+{
+  "name": "kill-combo",
+  "version": "1.0.0",
+  "description": "split comboUrl",
+  "main": "index.js",
+  "bin": "./bin/cmd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "combo",
+    "url"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pinkdoremi/kill-combo"
+  },
+  "author": "hexue_8000",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "~2.9.0"
+  }
+}
